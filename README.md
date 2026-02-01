@@ -1,4 +1,4 @@
-# 📣 Real‑Time Voice Translator
+#  Real‑Time Voice Translator
 
 Real‑Time Voice Translator is a **desktop AI application** that enables **instant speech‑to‑speech translation** between different languages. The system captures a user’s voice, converts it to text, translates it into the target language, and then converts it back into speech — allowing smooth, natural communication across language barriers.
 
@@ -17,7 +17,7 @@ This project is designed for **real‑time usage**, making it suitable for demon
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 The application follows a simple but effective pipeline:
 
@@ -27,11 +27,9 @@ The application follows a simple but effective pipeline:
 4. **Text‑to‑Speech** – Converts the translated text back into audio
 5. **Audio Playback** – Plays the translated voice output
 
-This pipeline allows near real‑time interaction with minimal delay.
-
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * **Python** – Core programming language
 * **SpeechRecognition** – For speech‑to‑text conversion
@@ -41,10 +39,10 @@ This pipeline allows near real‑time interaction with minimal delay.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
-📦 Real-time-voice-translator
+ Real-time-voice-translator
  ┣ 📁 build/
  ┣ 📁 dist/
  ┣ 📄 main.py
@@ -57,16 +55,16 @@ This pipeline allows near real‑time interaction with minimal delay.
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/1sarthak7/Real-time-voice-translator.git
 cd Real-time-voice-translator
 ```
 
-### 2️⃣ Create a Virtual Environment (Recommended)
+###  Create a Virtual Environment (Recommended)
 
 ```bash
 python -m venv env
@@ -74,14 +72,14 @@ source env/bin/activate   # macOS / Linux
 env\Scripts\activate      # Windows
 ```
 
-### 3️⃣ Install Dependencies
+###  Install Dependencies
 
 ```bash
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-### 4️⃣ Run the Application
+###  Run the Application
 
 ```bash
 python main.py
@@ -91,7 +89,7 @@ Make sure your **microphone** and **speakers/headphones** are properly connected
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 * Python **3.10 or below** (recommended for compatibility)
 * Working microphone
@@ -99,36 +97,18 @@ Make sure your **microphone** and **speakers/headphones** are properly connected
 
 ---
 
-## 🎯 Use Cases
 
-* Real‑time language translation demos
-* Academic mini‑projects or final‑year projects
-* AI / NLP learning reference
-* Communication assistance prototypes
+##  License
+
+This Project in open sourced and can be used for educations 
 
 ---
 
-## 🔮 Future Improvements
-
-* 🌐 Add support for more languages
-* 🎧 Noise cancellation for better accuracy
-* 🤖 Use advanced models like Whisper
-* 📱 Convert into a mobile or web application
-* 🧠 Emotion or tone‑aware translation
-
----
-
-## 📄 License
-
-This project follows the license specified in the repository. Please check the license file or `setup.py` for more details.
-
----
-
-## 🙌 Author
+##  Author
 
 **Sarthak Bhopale**
-Engineering Student | Developer | AI & CV Enthusiast
+Engineering Student at MIT
 
 ---
 
-⭐ If you find this project useful, consider giving it a star on GitHub!
+
